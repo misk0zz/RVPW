@@ -1,4 +1,4 @@
-# RVPW -misk0zz
+# RVPW - misk0zz
 
 # Reverse Shell Persistent Windows (RVPW) persistent reverse shell for windows
 This is a fileless living off the land reverse shell written in JScript and Powershell script. It runs every time the windows boots and relies solely on windows registry and environment variables to execute without creating any files on the system<br>
